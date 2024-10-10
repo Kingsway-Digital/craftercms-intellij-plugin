@@ -1,4 +1,4 @@
-package com.github.tfield.craftercmsintellijplugin
+package digital.kingsway.craftercmsintellijplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

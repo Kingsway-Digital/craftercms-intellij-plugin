@@ -1,9 +1,9 @@
-package com.github.tfield.craftercmsintellijplugin.services
+package digital.kingsway.craftercmsintellijplugin.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.tfield.craftercmsintellijplugin.MyBundle
+import digital.kingsway.craftercmsintellijplugin.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

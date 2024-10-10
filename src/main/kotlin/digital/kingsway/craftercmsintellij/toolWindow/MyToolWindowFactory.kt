@@ -1,4 +1,4 @@
-package digital.kingsway.craftercmsintellijplugin.toolWindow
+package digital.kingsway.craftercmsintellij.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import digital.kingsway.craftercmsintellijplugin.MyBundle
-import digital.kingsway.craftercmsintellijplugin.services.MyProjectService
+import digital.kingsway.craftercmsintellij.MyBundle
+import digital.kingsway.craftercmsintellij.services.MyProjectService
 import javax.swing.JButton
 
 

@@ -1,4 +1,4 @@
-package digital.kingsway.craftercmsintellijplugin.listeners
+package digital.kingsway.craftercmsintellij.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
